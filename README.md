@@ -8,4 +8,5 @@ This project fetches trending repositories from GitHub and posts them to a Disco
 
 # Running
 
-Run in folder: `docker-compose up --build`
+1. Set up `.env` file with your bot token & a channel ID the bot has access to.
+2. Run in folder: `docker-compose up --build`
